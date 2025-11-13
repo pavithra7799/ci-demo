@@ -1,5 +1,5 @@
 <?php
 echo 'welcome';
 
-echo 'add to main1111666';
+echo 'add to main';
 ?>
